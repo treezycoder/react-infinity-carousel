@@ -4,7 +4,7 @@
 
 ### What Sparked This Madness?
 
-So, I've been knee-deep in React.js for a while now and let me tell you, it's a freaking blast. I absolutely dig it! One day, I stumbled upon this mind-blowing image carousel on Apple’s homepage—if it’s still there, go check it out. It was so slick, I instantly fell head over heels in love.
+So, I've been knee-deep in React.js for a while now and let me tell you, it's a freaking blast. I absolutely dig it! One day, I stumbled upon this mind-blowing image carousel on Apple’s homepage.. if it’s still there, go check it out. It was so slick, I instantly fell head over heels in love.
 
 Naturally, I thought, "Why not recreate that awesomeness in React?" Little did I know, it wasn’t just a walk in the park—it was more like solving a Rubik’s Cube blindfolded in a hurricane. Yeah, it was that intense. 😅
 
