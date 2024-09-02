@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-infinity-carousel/static/css/main.31bf9d20.css",
+    "main.js": "/react-infinity-carousel/static/js/main.d3e4d4f9.js",
+    "index.html": "/react-infinity-carousel/index.html",
+    "main.31bf9d20.css.map": "/react-infinity-carousel/static/css/main.31bf9d20.css.map",
+    "main.d3e4d4f9.js.map": "/react-infinity-carousel/static/js/main.d3e4d4f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31bf9d20.css",
+    "static/js/main.d3e4d4f9.js"
+  ]
+}
