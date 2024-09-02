@@ -25,10 +25,9 @@ Feel free to tweak the code, make it even cooler, and add your name to the list 
 **Code License:** Free to React developers. If you use it, credit the author. Let’s keep the love for code alive!
 
 **Reach Out:**
-- Instagram: [your-username]
 - Gmail: [treezyvarrick@gmail.com]
-- LinkedIn: [your-linkedin]
-- GitHub: [your-github]
+- LinkedIn: [https://www.linkedin.com/in/tresor-ngahame-0004a5287/]
+- GitHub: [https://github.com/treezycoder/]
 
 ## how to use?
 
