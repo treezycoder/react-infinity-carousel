@@ -1,7 +1,7 @@
 {
   "name": "react-infinite-carousel",
   "version": "0.1.0",
-  "homepage": "https://treezycoder.github.io/react-infinite-carousel",
+  "homepage": "https://treezycoder.github.io/react-infinity-carousel",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
