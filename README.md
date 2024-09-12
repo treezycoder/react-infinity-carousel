@@ -1,4 +1,3 @@
----
 
 ## 🚀 Ultimate Infinite Image Carousel/Slider in React.js version 18 & Tailwind CSS 🎢
 
@@ -36,4 +35,3 @@ Feel free to tweak the code, make it even cooler, and add your name to the list 
 
 Happy coding, and may your carousels be ever infinite! 🚀
 
----
